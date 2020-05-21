@@ -1,0 +1,5 @@
+versão 2 - 22/05/2020 00:28
+- versão no rodapé agora é 2.0
+- links anteriores atualizados para serem públicos
+- adicionados links para relatório E2v2, e protótipo E4
+- removida table row para apresentação da 2ª iteração
