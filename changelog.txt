@@ -1,3 +1,7 @@
+versão 3 - 12/06/2020 17:38
+- versão no rodapé agora é 3.0
+- adicionado link para site funcional (E5), testes de aceitação e relatório E6
+
 31/05/2020 14:54
 - alterado link para protótipo E4 para o vídeo demonstrativo em vez do protótipo interativo
 
